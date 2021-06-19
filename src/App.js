@@ -33,6 +33,8 @@ const App = () => {
       postedOn: Job.data().postedOn.toDate(),
     }));
 
+    //console.log(tempJob);
+
     setJobs(tempJob);
     setLoading(false);
   };

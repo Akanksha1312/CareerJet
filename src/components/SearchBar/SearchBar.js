@@ -37,7 +37,7 @@ const SearchBar = (props) => {
 
     }
     const classes = useStyles();
-    console.log(jobSearch);
+    //console.log(jobSearch);
    return( 
    <Box p={2} mt = {-5} mb = {2} className = {classes.wrapper}>
            <Select onClick={handleChange} name="type" value={jobSearch.type} disableUnderline variant = "filled">
