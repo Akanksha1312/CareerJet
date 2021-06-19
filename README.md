@@ -11,6 +11,5 @@ Reactjs, Firebase
 ### Deployment
 [https://job-listing-b230b.web.app/](https://job-listing-b230b.web.app/)
 
-
 ### Video
-
+![Demo_video](https://github.com/Akanksha1312/job-listing-app/blob/master/demo/screen-capture.webm)
