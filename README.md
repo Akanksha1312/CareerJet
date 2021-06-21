@@ -12,4 +12,4 @@ Reactjs, Firebase
 [https://job-listing-b230b.web.app/](https://job-listing-b230b.web.app/)
 
 ### Video
-![Demo](https://github.com/Akanksha1312/job-listing-app/blob/master/demo/screen-capture.webm)
+![Demo](https://github.com/Akanksha1312/job-listing-app/blob/master/demo/screen-capture.gif)
