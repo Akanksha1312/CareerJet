@@ -6,7 +6,7 @@ This project is a open job listing app where a user can:
 3. Search a remote or full time job.
 
 ## Tech Stack
-Reactjs, Firebase
+Reactjs (Material UI), Firebase
 
 ### Deployment
 [https://job-listing-b230b.web.app/](https://job-listing-b230b.web.app/)
